@@ -1,0 +1,12 @@
+downloads/
+clips/
+shorts/
+temp/
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mkv
+__pycache__/
+.env
+
